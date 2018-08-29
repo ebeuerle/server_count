@@ -1,4 +1,4 @@
-# CloudPassage server list dump to CSV 
+# CloudPassage server count to CSV 
 
 Version: *1.0*
 Author: *Eddie Beuerlein*
